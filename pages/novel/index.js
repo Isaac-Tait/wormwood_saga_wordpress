@@ -2,7 +2,7 @@ import Head from 'next/head'
 
 import { getAllPosts } from '../../lib/api'
 
-const Blog = ({ allPosts: { edges } }) => (
+const Novel = ({ allPosts: { edges } }) => (
     <div className={styles.container}>
       <Head>
         <title>Blog articles page</title>
@@ -27,3 +27,5 @@ const Blog = ({ allPosts: { edges } }) => (
       </main>
     </div>
   );
+
+  export default Novel;
