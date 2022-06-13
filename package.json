@@ -5,7 +5,7 @@
   "version": "0.0.1",
   "private": false,
   "license": "MIT",
-  "homepage": "https://github.com/Isaac-Tait/wormwoodsaga_nextjs",
+  "homepage": "https://github.com/Isaac-Tait/wormwood_saga_wordpress",
   "engines": {
     "node": ">=16.x",
     "yarn": ">=1.22.0",
