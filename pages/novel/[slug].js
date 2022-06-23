@@ -1,4 +1,4 @@
-const temp = () => {
+const Temp = () => {
   return (
     <div>
       <p>temp</p>
@@ -6,4 +6,4 @@ const temp = () => {
   );
 };
 
-export default temp;
+export default Temp;
